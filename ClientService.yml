@@ -11,4 +11,4 @@ spring:
     probability: 1 #100% (default = 10%)
   data:
     mongodb:
-      uri: tcp://localhost:27017/Customer
+      uri: mongodb://localhost:27017/Customer
